@@ -1,6 +1,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chamodi1213)](https://github.com/chamodi1213/github-readme-stats)
-
 # Tools and Technologies 
 
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
